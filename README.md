@@ -1,4 +1,4 @@
-# imghighlight
+# pyhighlight
 
 A tiny Python 3 wrapper to make highlighting portions of an image much easier
 
